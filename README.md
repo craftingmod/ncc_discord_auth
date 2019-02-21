@@ -1,3 +1,3 @@
-# ncc_discord_auth
+## Deprecated
 
-Naver auth
+Use [sdbx repo](https://github.com/sdbx/ncc_discord_auth)
